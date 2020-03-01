@@ -1,3 +1,4 @@
+PowerShellRepresentation | ConvertTo-Json
 {
   "bridge": {
     "name": "Homebridge",
